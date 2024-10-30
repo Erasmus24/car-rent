@@ -15,7 +15,8 @@
     "reactstrap": "^9.1.1",
     "remixicon": "^2.5.0",
     "slick-carousel": "^1.8.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "@babel/plugin-proposal-private-property-in-object": "^7.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
